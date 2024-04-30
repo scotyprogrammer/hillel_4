@@ -1,0 +1,43 @@
+span {
+    color: red;
+}
+
+.colorClass {
+    color: blue;
+}
+
+#uniqueElement {
+    color: green;
+}
+
+input[type="button"] {
+    color: orange;
+}
+
+.nested p {
+    color: violet;
+}
+
+article > section > div {
+    color: cyan;
+}
+
+ul li {
+    color: magenta;
+}
+
+li.second {
+    color: teal; 
+}
+
+#third {
+    color: brown;
+}
+
+.combination.unique {
+    color: yellow;
+}
+
+div[data-info="attribute"] {
+    color: black;
+}
