@@ -41,3 +41,7 @@ li.second {
 div[data-info="attribute"] {
     color: black;
 }
+
+p {
+    color: blue;
+}
