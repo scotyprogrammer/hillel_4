@@ -44,4 +44,5 @@ div[data-info="attribute"] {
 
 p {
     color: blue;
+    text-transform: capitalize;
 }
